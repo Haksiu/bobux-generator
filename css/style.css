@@ -1,0 +1,16 @@
+#content{
+    align-items: center;
+    align-content: center;
+    display:grid;
+    place-content: center;
+    text-align: center;
+}
+
+input{
+    width: 200px;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}   
